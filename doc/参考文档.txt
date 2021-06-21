@@ -1,0 +1,11 @@
+参考信息：
+
+Android构建流程
+第一篇：https://blog.csdn.net/dbs1215/article/details/106888164?spm=1001.2014.3001.5501
+第二篇：https://blog.csdn.net/dbs1215/article/details/106889432?spm=1001.2014.3001.5501
+第三篇：https://blog.csdn.net/dbs1215/article/details/106967018
+第四篇：https://blog.csdn.net/dbs1215/article/details/106994473?spm=1001.2014.3001.5501
+第五篇：https://blog.csdn.net/dbs1215/article/details/108037995?spm=1001.2014.3001.5501
+第六篇： https://blog.csdn.net/dbs1215/article/details/108825177?spm=1001.2014.3001.5501
+第七篇：https://blog.csdn.net/dbs1215/article/details/109437034?spm=1001.2014.3001.5501
+第八篇：https://blog.csdn.net/dbs1215/article/details/109722205?spm=1001.2014.3001.5501
